@@ -28,12 +28,6 @@ object-assign
  * http://api.jqueryui.com/category/ui-core/
  */
 
-/*!
- * github-buttons v2.10.1
- * (c) 2020 なつき
- * @license BSD-2-Clause
- */
-
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 

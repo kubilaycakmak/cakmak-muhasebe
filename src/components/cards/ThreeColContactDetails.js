@@ -59,28 +59,12 @@ export default ({ cards = null, heading = "Our Offices", subheading = "Locations
 
   const defaultCards = [
     {
-      title: "Secure",
-      description: "We strictly only deal with vendors that provide top notch security."
+      title: "Sirinevler / Istanbul",
+      description: "Hürriyet, Mahmutbey Cd. No:17 D:508, 34191 Bahçelievler/İstanbul, Turkey"
     },
     { 
-      title: "24/7 Support",
-      description: "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud."
-    },
-    { 
-      title: "Reliable",
-      description: "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud."
-    },
-    { 
-      title: "Easy",
-      description: "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud."
-    },
-    { 
-      title: "Customizable",
-      description: "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud."
-    },
-    { 
-      title: "Fast",
-      description: "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud."
+      title: "Vancouver / BC",
+      description: "1150 Columbia Place, V6E 2C8, BC Canada"
     },
   ];
 

@@ -2,6 +2,9 @@ module.exports = {
   prefix: '',
   important: false,
   separator: ':',
+  content:[
+    "./node_modules/flowbite/**/*.js"
+  ],
   theme: {
     screens: {
       sm: '640px',
@@ -768,5 +771,7 @@ module.exports = {
     transitionDuration: ['responsive'],
   },
   corePlugins: {},
-  plugins: [],
+  plugins: [
+    require('flowbite/plugin')
+  ],
 }
